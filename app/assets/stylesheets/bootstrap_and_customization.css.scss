@@ -2,7 +2,7 @@
 
 $body-bg:                          #ecf0f1;
 $font-family-sans-serif:           'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-$brand-primary:                    #2980b9;
+$brand-primary:                    #76C1B6;
 $jumbotron-bg:                     white;
 
 @import 'bootstrap-sprockets';
@@ -22,5 +22,9 @@ footer a:hover {
   color: #222;
 }
 
+#index h1 {
+	color: #76C1B6;
+	font-family: 'Carme', sans-serif;
+}
 
 
