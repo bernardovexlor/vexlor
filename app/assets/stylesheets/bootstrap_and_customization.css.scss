@@ -12,19 +12,24 @@ $jumbotron-bg:                     white;
      text-align: center;
 }
 
-/* footer */
-
 footer a {
-  color: #555;
+	color: #555;
 }
 
 footer a:hover {
-  color: #222;
+	color: #222;
 }
 
-#index h1 {
-	color: #76C1B6;
+footer {
+	font-size: 15px;
+	color: #555;
+}
+
+h1 {
 	font-family: 'Carme', sans-serif;
+	color: #76C1B6;
 }
 
-
+.Copyright { 
+	float: right;
+}
